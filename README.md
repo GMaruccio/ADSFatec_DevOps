@@ -113,23 +113,15 @@ O projeto desenvolvido é um CRUD simplificado de fichas de personagens de D&D 5
 - 💻 Projeto: [RPG-Sheet_Manager](https://github.com/GMaruccio/RPG-Sheet_Manager)
 - 🌍 Deploy: [rpg-sheet-maker.vercel.app](https://rpg-sheet-maker.vercel.app/)
 
-### Aula 08 — Controle de Presença
-
-**Tema:** integração entre dispositivos, comunicação HTTP, processamento e armazenamento de dados.
-
-O projeto propõe automatizar o registro de presença em sala de aula. O aluno informa seu RA em um teclado matricial conectado a um ESP32; o dispositivo envia os dados ao Node-RED, que consulta o MySQL, registra a presença e disponibiliza os resultados em um dashboard.
-
-- 💻 Projeto: [Controle-De-Presenca](https://github.com/GMaruccio/Controle-De-Presenca)
-
-  _O link acima leva ao repositório independente da atividade._
-
-### Aula 09 — Documentação de Software
+### Aula 09 — Documentação do Projeto de Controle de Presença
 
 **Tema:** documentação técnica e organização de projetos.
 
 Atividade voltada à elaboração de documentação, contemplando objetivo, problema, escopo, requisitos funcionais e não funcionais, tecnologias, arquitetura, componentes e instruções para instalação, configuração, execução, testes e deploy.
 
 - 📁 Pasta: [`Aula09_Documentacao`](./Aula09_Documentacao)
+- 💻 Projeto: [Controle-De-Presenca](https://github.com/GMaruccio/Controle-De-Presenca)
+
 
 ---
 
