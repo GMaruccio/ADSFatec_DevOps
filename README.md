@@ -2,7 +2,7 @@
 
 # ⚙️ ADSFatec_DevOps
 
-### Aprendizado em movimento. Da teoria à prática.
+
 
 Repositório de estudos, atividades e projetos desenvolvidos durante a disciplina de **DevOps** do curso de Análise e Desenvolvimento de Sistemas — FATEC Sorocaba.
 
@@ -51,7 +51,7 @@ A disciplina reúne diferentes práticas e ferramentas relacionadas ao desenvolv
 | Etapa | Tema | Aplicação prática |
 |:---:|---|---|
 | 02 | 🎲 Desenvolvimento de aplicação | Rolador de status para RPG |
-| 03 | 🌐 Desenvolvimento Web | Criação de uma landing page |
+| 03 | 🌐 Desenvolvimento Web | Edição de uma landing page |
 | 04 | 🔍 Ferramentas de CI/CD | Pesquisa e comparação de ferramentas |
 | 05 | 🚀 Pipelines automatizadas | Projeto Initiative Tracker |
 | 07 | 🧪 Testes automatizados | Testes unitários, integração e performance |
@@ -79,7 +79,7 @@ Projeto desenvolvido em grupo para gerar e trabalhar com atributos/status de per
 
 **Tema:** desenvolvimento de páginas web.
 
-Atividade prática de criação de uma landing page, aplicando conceitos de estruturação e apresentação de conteúdo na web.
+Atividade prática editando uma landing page de algum projeto do github e fazendo o deploy automatico com o vercel.
 
 - 📁 Pasta: [`Aula03-LandingPage`](./Aula03-LandingPage)
 - 💻 Projeto: [Aula03LandingPage](https://github.com/GMaruccio/Aula03LandingPage)
