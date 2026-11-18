@@ -101,7 +101,8 @@ Atividade prática associada ao projeto Initiative Tracker, utilizada para explo
 
 - 📁 Pasta: [`Aula05_PipelinesAutomatizadas`](./Aula05_PipelinesAutomatizadas)
 - 💻 Projeto: [INITIATIVE_TRACKER](https://github.com/GMaruccio/INITIATIVE_TRACKER)
-
+- 🌍 Deploy: [https://initiative-tracker-gilt.vercel.app/](https://initiative-tracker-gilt.vercel.app/)
+  
 ### Aula 07 — Testes Automatizados
 
 **Tema:** testes unitários, testes de integração, testes de performance e Integração Contínua.
