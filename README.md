@@ -58,7 +58,7 @@ A disciplina reúne diferentes práticas e ferramentas relacionadas ao desenvolv
 | 08 | 📡 Integração de sistemas e IoT | Controle de presença com ESP32 |
 | 09 | 📝 Documentação de software | Documentação técnica de um projeto |
 
-> **A jornada continua.** Novas aulas, relatórios e projetos poderão ser adicionados conforme o andamento da disciplina.
+
 
 ---
 
